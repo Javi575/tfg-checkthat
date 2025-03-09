@@ -8,7 +8,7 @@ seaborn
 nltk
 spacy
 transformers
-sentence-transformers  # Para modelos como BERT y SciBERT
+#sentence-transformers  # Para modelos como BERT y SciBERT
 
 # Machine Learning y Deep Learning
 scikit-learn
@@ -20,10 +20,10 @@ rank-bm25  # Para BM25 (búsqueda de documentos relevante)
 faiss-cpu  # Para embeddings y búsqueda eficiente
 
 # Explicabilidad de modelos (opcional, usar SHAP o LIME)
-shap
-lime
+#shap
+#lime
 
 # Interfaz (opcional, hacer una API o demo interactiva)
-flask  # Para una API simple
-fastapi  # Alternativa moderna a Flask
-streamlit  # Para crear una interfaz interactiva rápida
+#flask  # Para una API simple
+#fastapi  # Alternativa moderna a Flask
+#streamlit  # Para crear una interfaz interactiva rápida
