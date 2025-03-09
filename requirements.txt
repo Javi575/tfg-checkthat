@@ -1,0 +1,29 @@
+# Librerías básicas
+numpy
+pandas
+matplotlib
+seaborn
+
+# Procesamiento de Lenguaje Natural (PLN)
+nltk
+spacy
+transformers
+sentence-transformers  # Para modelos como BERT y SciBERT
+
+# Machine Learning y Deep Learning
+scikit-learn
+torch  # Necesario para transformers si uso modelos de Hugging Face
+tensorflow  
+
+# Recuperación de Información (para Task 4b)
+rank-bm25  # Para BM25 (búsqueda de documentos relevante)
+faiss-cpu  # Para embeddings y búsqueda eficiente
+
+# Explicabilidad de modelos (opcional, usar SHAP o LIME)
+shap
+lime
+
+# Interfaz (opcional, hacer una API o demo interactiva)
+flask  # Para una API simple
+fastapi  # Alternativa moderna a Flask
+streamlit  # Para crear una interfaz interactiva rápida
